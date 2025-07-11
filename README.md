@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to My AI-Powered World 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Researcher+%7C+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
