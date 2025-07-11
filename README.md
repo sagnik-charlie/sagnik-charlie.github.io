@@ -1,17 +1,17 @@
 <h1 align="center">🚀 Welcome to My AI-Powered World 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Researcher+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Researcher+%7C+Programmer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/sagnik-charlie">
+    <img src="https://img.shields.io/github/followers/sagnik-charlie?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
+  <a href="https://linkedin.com/in/sagnik-ghosh-04091998/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sagnik4998@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-Hi, I’m **YOUR NAME**, an AI engineer and full-stack developer passionate about solving real-world problems using machine learning, LLMs, and cutting-edge tools. I blend **deep learning**, **language models**, and **beautiful UI/UX** into intelligent, scalable solutions.
+Hi, I’m **SAGNIK GHOSH**, an ML/AI enthusiast passionate about solving real-world problems using machine learning, LLMs, and cutting-edge tools. I blend **deep learning**, **language models**, and **beautiful UI/UX** into intelligent, scalable solutions.
 
 - 🔬 Researching LLMs, embeddings, and agentic workflows
 - ⚙️ Building smart apps with LangChain, OpenAI, and custom ML models
@@ -51,12 +51,12 @@ Hi, I’m **YOUR NAME**, an AI engineer and full-stack developer passionate abou
 
 | 🧠 Project | 🚀 Description | 🛠️ Stack |
 |-----------|----------------|----------|
-| **Chat with PDF** | Ask intelligent questions to any PDF using embeddings and LLMs | LangChain, OpenAI, FAISS, Streamlit |
-| **LLM Resume Analyzer** | Tailor resumes to job descriptions with GPT | Python, OpenAI, Streamlit |
-| **AI Code Assistant** | Query and summarize codebases | LangChain, Git, PyTorch |
-| **LLM-Powered Study Buddy** | Flashcards and summaries from your notes | Python, GPT-4, SQL |
+| **Image Speak** | Help visually impaired to see and understand the real world| BLIP, OpenCV, Pytorch,FastApi, GCP, Flutter |
+| **MedAssist Prescription Reader** | Using Transformer based Optical Character Recognition model for prescription reading | Pytorch, Transformers, Llama 3.2  |
+| **Frosthack Music** | Generate Music based on user mood detection | OpenCV, AudioLDM, PyTorch, GCP, Docker|
+| **Eye Gaze Detection** | Tracking human eye gaze based on face angle, looking direction and eyeball movement | Python, Samsung Tab, Tensorflow, Tensorflow lite |
 
-> ✨ More projects in [My Repos](https://github.com/YOUR_USERNAME?tab=repositories)
+> ✨ More projects in [My Repos](https://github.com/sagnik-charlie?tab=repositories)
 
 ---
 
@@ -80,11 +80,11 @@ Hi, I’m **YOUR NAME**, an AI engineer and full-stack developer passionate abou
 
 ## 📫 Let's Connect!
 
-> 💌 DM me or reach out via [email](mailto:your.email@example.com)  
-> 🌍 Visit [yourwebsite.com](https://yourwebsite.com) or check my latest repos for new projects!
+> 💌 DM me or reach out via [email](mailto:sagnik4998@gmail.com)  
+> 🌍 Visit [yourwebsite.com](#) or check my latest repos for new projects!
 
 ---
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/assets/footer.svg" />
+  <img src="https://github.com/sagnik-charlie/sagnik-charlie/blob/main/assets/footer.svg" />
 </p>
