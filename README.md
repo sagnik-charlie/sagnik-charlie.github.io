@@ -81,7 +81,7 @@ Hi, I’m **SAGNIK GHOSH**, an ML/AI enthusiast passionate about solving real-wo
 ## 📫 Let's Connect!
 
 > 💌 DM me or reach out via [email](mailto:sagnik4998@gmail.com)  
-> 🌍 Visit [yourwebsite.com](#) or check my latest repos for new projects!
+> 🌍 Visit [sagnik-charlie.github.io](#) or check my latest repos for new projects!
 
 ---
 
